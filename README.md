@@ -8,4 +8,4 @@ Used tools : Pyspark, Pandas, Numpy, Kmode(MIT generated package)
 
 
 Clustering Result 
-[](
+[](RFM_EXT.png)
