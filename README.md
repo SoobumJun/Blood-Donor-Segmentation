@@ -8,4 +8,4 @@ Used tools : Pyspark, Pandas, Numpy, Kmode(MIT generated package)
 
 
 Clustering Result 
-[](Blood Donor Segmentation/RFM_EXT.png)
+[](Blood-Donor-Segmentation/RFM_EXT.png)
