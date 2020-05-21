@@ -8,4 +8,4 @@ Used tools : Pyspark, Pandas, Numpy, Kmode(MIT generated package)
 
 
 Clustering Result 
-[](Blood-Donor-Segmentation/RFM_EXT.png)
+<img width="781" alt="Screen Shot 2020-05-21 at 7 58 19 PM" src="https://user-images.githubusercontent.com/31057563/82617249-7ac31f00-9b9d-11ea-91cb-843f1519efb3.png">
